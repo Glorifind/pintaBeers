@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Pinta Best Beers</string>
+    <string name="etykieta_piwa">Etykieta piwa</string>
+    <string name="nazwa_piwa">NAZWA PIWA</string>
+    <string name="beer_style">styl: American IPA</string>
+    <string name="beer_plato">ekstrakt: 15,5°Plato</string>
+    <string name="beer_alcohol">alkohol: 6,1% obj.</string>
+    <string name="beer_ibu">IBU: 54</string>
+    <string name="beer_description">PINTA Vermont IPA 15,5° - delikatniejsza w odbiorze, bardziej soczysta w smaku i bardziej chmielowa w aromacie wersją klasycznego American IPA. Oryginalnie warzone w stanie Vermont, w północno-wschodniej części USA zwanej Nową Anglią - miała być odpowiedzią na ciężkie i delikatnie chmielone East Coast IPA. Fermentacja angielskim szczepem drożdży pozwala wzbogacić chmielowy profil piwa o aromaty owocowych estrów tj. morele, gruszki czy brzoskwinie. Krótki okres leżakowania oraz kilkukrotne chmielenie na zimno sprawiają, że gotowe piwo jest mętne, pełniejsze w odbiorze, bardziej owocowe i zbalansowane.</string>
+    <string name="beer_author">Receptura: Ziemowit Fałat i Paweł Masłowski.</string>
+    <string name="beer_ingredients">Surowce: woda, słody jęczmienne Weyermann®: pilzneński premium, pale ale; cukier; chmiele (USA): Citra®, Centennial, Mosaic®, Columbus; drożdże Safale™ S-04.</string>
+    <string name="beer_browamator">Surowce dla PINTY dostarcza Browamator®.</string>
+    <string name="beer_other_info">Piwo pasteryzowane, niefiltrowane.</string>
+    <string name="beer_availability">Piwo dostępne w butelkach 500 ml oraz w kegach 30 l.</string>
+    <string name="beer_capacity">Piwo dostępne w butelkach 500 ml oraz w kegach 30 l.</string>
+    <string name="beer_glass">Szkło: nonic.\nZalecana temp. serwowania: 9-10°C.\nPolecane kulinaria: pastrami wołowe, zapiekanka ziemniaczana z cheddarem.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

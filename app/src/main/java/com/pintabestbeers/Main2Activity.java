@@ -13,6 +13,8 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
     }
 
+    
+
     public void openBeerInfo(View view) {
         Intent intent = new Intent(Main2Activity.this, Main3Activity.class);
         startActivity(intent);
