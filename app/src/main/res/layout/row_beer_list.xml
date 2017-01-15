@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/beerListItemLinearLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/beerBottleImageView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/pinta_vermont_ipa"
+        android:contentDescription="@string/obraz_butelki_z_piwem" />
+
+    <TextView
+        android:id="@+id/beerNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#01b57f" />
+</LinearLayout>

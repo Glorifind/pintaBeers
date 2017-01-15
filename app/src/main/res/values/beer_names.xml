@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="list_beer_names">
+        <item>PINTA Vermont IPA 15,5°</item>
+        <item>PINTA Kwas Theta 24,7°</item>
+        <item>PINTA Brett IPA 15,1°</item>
+        <item>PINTA American Black 12°</item>
+        <item>PINTA Kwas Epsilon 18°</item>
+        <item>PINTA FarmHouse 13,1°</item>
+        <item>PINTA Hoplaaga 15,5°</item>
+        <item>PINTA Modern Drinking 15,5°</item>
+        <item>PINTA Son of a Birch 9,0°</item>
+        <item>PINTA Kwas Gamma 13,1°</item>
+        <item>PINTA / BdPF Król Lata </item>
+        <item>PINTA Atak Chmielu 15,1°</item>
+        <item>PINTA Raj z rajs 19,1°</item>
+        <item>PINTA I\'m so horny! 18,0°</item>
+        <item>PINTA Sanrajza 13,1°</item>
+        <item>PINTA Hopus Pokus 16,5°</item>
+        <item>PINTA Quatro 24,7°</item>
+        <item>PINTA Pierwsza Pomoc 10,5°</item>
+        <item>PINTA A ja pale ale 12,0°</item>
+        <item>PINTA Viva la Wita! 16,5°</item>
+        <item>PINTA Dobry Wieczór 13,1°</item>
+        <item>PINTA Angielskie Śniadanie 14,0°</item>
+        <item>PINTA Apetyt na Życie 13,1°</item>
+        <item>PINTA Czarna Dziura 11,5°</item>
+        <item>PINTA Dymy Marcowe 13,1°</item>
+        <item>PINTA Dyniamit 16,5°</item>
+        <item>PINTA Ognie Szczęścia 11,5°</item>
+        <item>PINTA Imperator Bałtycki 24,7°</item>
+        <item>PINTA Oki Doki 11,5°</item>
+        <item>PINTA Imperium Atakuje 19,1°</item>
+        <item>PINTA Oto Mata IPA 14°</item>
+        <item>PINTA Jak w Dym 16,5°</item>
+        <item>PINTA Koniec Świata 19,1°</item>
+        <item>PINTA Żytorillo 14,0°</item>
+        <item>PINTA Stare ALE Jare 14,0°</item>
+        <item>PINTA Odsiecz Wiedeńska 13,1°</item>
+    </string-array>
+</resources>

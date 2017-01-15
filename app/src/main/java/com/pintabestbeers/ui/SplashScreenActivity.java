@@ -1,20 +1,22 @@
-package com.pintabestbeers;
+package com.pintabestbeers.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+import com.pintabestbeers.R;
+
+public class SplashScreenActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_splash_screen);
     }
 
     public void moreThan18(View view) {
-        Intent intent = new Intent(MainActivity.this, Main2Activity.class);
+        Intent intent = new Intent(SplashScreenActivity.this, BeerListActivity.class);
         startActivity(intent);
     }
 
